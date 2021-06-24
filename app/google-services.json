@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522465764598",
+    "project_id": "tars-ac777",
+    "storage_bucket": "tars-ac777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522465764598:android:e16176dcca9a0467d5f8d7",
+        "android_client_info": {
+          "package_name": "com.company.tars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522465764598-f7qg5krp7acqe36vlken66c40okvtjev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66RkQ0hhr8gyjvgd_deRt9wHq57bYCVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522465764598-f7qg5krp7acqe36vlken66c40okvtjev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
