@@ -13,10 +13,10 @@ to cover the whole city with minimum amount of police vehicle. Moreover it will 
 spot, it will give co-ordinates to the police vehincle so that the blind spot can be covered.  
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/77295322/177104855-37a5f209-ab78-44f6-83c0-59b4a5360e05.jpg" width=200 > <img src="https://user-images.githubusercontent.com/77295322/177108113-2de59b3a-9672-4043-a4c6-1f596a80b4a1.jpg" width=200 > <img src="https://user-images.githubusercontent.com/77295322/177108141-b58eeb3a-c2bc-4739-b465-ec863efd12b1.jpg" width=200 >
+<img src="https://user-images.githubusercontent.com/77295322/177104855-37a5f209-ab78-44f6-83c0-59b4a5360e05.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108113-2de59b3a-9672-4043-a4c6-1f596a80b4a1.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108141-b58eeb3a-c2bc-4739-b465-ec863efd12b1.jpg" width=200 >
 
 
-<img src="https://user-images.githubusercontent.com/77295322/177108158-b676778b-34cb-418c-8426-4fc53e3b6394.jpg" width=200 ><img src="https://user-images.githubusercontent.com/77295322/177108938-4f57a124-cee5-4523-89a0-85140ec9791c.jpg" width=200 ><img src="https://user-images.githubusercontent.com/77295322/177108193-dc4d464f-b9fe-4937-a707-bd91db7eb5cb.jpg" width=200 >
+<img src="https://user-images.githubusercontent.com/77295322/177108158-b676778b-34cb-418c-8426-4fc53e3b6394.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108938-4f57a124-cee5-4523-89a0-85140ec9791c.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108193-dc4d464f-b9fe-4937-a707-bd91db7eb5cb.jpg" width=200 >
 
 ## App Status
 - Login, Register 
