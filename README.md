@@ -18,10 +18,7 @@ spot, it will give co-ordinates to the police vehincle so that the blind spot ca
 
 <img src="https://user-images.githubusercontent.com/77295322/177108158-b676778b-34cb-418c-8426-4fc53e3b6394.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108938-4f57a124-cee5-4523-89a0-85140ec9791c.jpg" width=200 >  <img src="https://user-images.githubusercontent.com/77295322/177108193-dc4d464f-b9fe-4937-a707-bd91db7eb5cb.jpg" width=200 >
 
-## App Status
-- Login, Register 
-- User Interface 
-- User Experience 
+
 
 ## Installation
 - On GitHub, navigate to the main page of the repository.
